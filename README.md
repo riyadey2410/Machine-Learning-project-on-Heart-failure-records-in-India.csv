@@ -1,0 +1,2 @@
+# Machine-Learning-project-on-Heart-failure-records-in-India.csv
+Doing Exploratory Data Analysis (EDA) on the data set and understanding correlation between various factors and using some Machine Learning algorithms to predict the Heart failure rate or death event from the data set.  Used python code to run the statistical process - EDA distribution, correlation and for modeling part used Logistic Regression, k-nearest neighbors (KNN)  and Decision Tree  to predict the Heart failure rate or death event from the data set..
